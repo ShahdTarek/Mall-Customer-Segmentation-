@@ -1,7 +1,10 @@
 # Mall-Customer-Segmentation
 This project involves customer segmentation for a mall using machine learning techniques. The goal is to group customers based on their features such as gender, age, annual income, and spending score.
 
-Then predict new cutomers spending segmnet and give a spending score from 1 to 100.
+Then recommend the new customers spending segmnet and give each spending percentage from 1 to 100.
+
+#### Note: The spending percentage recommendation in the same segment can be different due to gender change.
+
 
 Customers Clustered into 5 Segments:
 - Low Annual Income (k$)	and Low Spending Score (1-100).
